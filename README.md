@@ -1,5 +1,5 @@
 # neurol_network_c
-This tool analyse input and gives the weights for all parameters.
+This tool analyses input and gives the weights for all parameters.
 
 Firstly, compile using gcc main.c
 
