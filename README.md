@@ -7,3 +7,4 @@ To run you need to type: ./a.out data.txt 3
 
 you can make your own txt file with unlimited parameters(in my example only 3)
 
+you can use this tool for any problem. but it needs a lot of input data.
